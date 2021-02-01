@@ -70,16 +70,16 @@
 					body
 
 div			div#tree		div
-					|
+          |
   ________|_________
-  									|
-  									|
-  									ul
-  				 _________|_________
-  				 										|
-  				 									 li
-  				 									  |
-  				 									a#leaf
+                    |
+                    |
+                   ul
+           _________|_________
+                              |
+                             li
+                              |
+                           a#leaf
 <!-- prettier-ignore-end -->
 
 const tree = document.querySelector("#tree");
