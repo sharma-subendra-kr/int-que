@@ -69,7 +69,7 @@
 <!-- prettier-ignore-start -->
 					body
 
-div			div#tree		div
+div    div#tree    div
           |
   ________|_________
                     |
