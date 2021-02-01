@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}    
+	],
+	"settings": {
+		"tab_size": 2,
+		"translate_tabs_to_spaces": false,
+		"ClangFormat": {
+			"format_on_save": true
+		},
+		"SublimeLinter.linters.cpplint.disable": true,
+		"SublimeLinter.linters.cppcheck.disable": false,
+	},
+}
